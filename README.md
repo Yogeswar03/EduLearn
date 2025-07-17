@@ -1,5 +1,42 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📘 EduLearn
+
+EduLearn is an AI-powered course creation and learning platform built with **Next.js**, **Clerk Auth**, and **Tailwind CSS**. It allows users to generate, manage, and learn from interactive courses with a sleek, modern UI.
+
+![EduLearn Banner](public/image1.png)
+
+---
+
+## 🚀 Features
+
+- ✨ AI-powered course generation
+- 🧑‍🎓 Enroll and continue courses
+- 👤 User authentication with Clerk
+- 🎬 Video support per chapter
+- 📚 Structured chapters & topics
+- 💡 Responsive UI with Framer Motion animations
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js 14 App Router**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Clerk for Auth**
+- **Drizzle ORM + PostgreSQL**
+- **ShadCN UI Components**
+- **Lucide Icons**
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Yogeswar03/EduLearn.git
+cd EduLearn
+
 
 ## Getting Started
 
@@ -18,8 +55,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
